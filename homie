@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title> LICHTERIK </title>
+        
+    
+    </head>
+    <body>
+        <h1>Creatieve en educatieve workshops en cursussen</h1>
+        <hr><ul><li>schrijven</li></ul>
+        <ul><li>tekenen</li></ul>
+        <ul><li>ontwerpen</li></ul> 
+
+        <img height="100" src= "img/IMG_5161.JPG">
+
+        
+
+           
+        <h2>Kinderfeestjes, naai-cursussen, typ-lessen, lampen maken</h2       
+        <a href="about.html">zelfportret in slak</a>
+        <a href="about pagina 2.html">pagina 2</a>
+    
+         <p>Hai, ik ben Anne, beeldend kunstenaar, en ik geef lessen aan kleine en grote mensen, met veel plezier.</p>
+    </body>
+</html>
